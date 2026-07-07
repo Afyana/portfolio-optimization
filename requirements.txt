@@ -1,0 +1,28 @@
+# Data Manipulation
+pandas
+numpy
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Financial Data
+yfinance
+pyportfolioopt
+
+# Time Series
+statsmodels
+pmdarima
+
+# Machine Learning
+scikit-learn
+tensorflow
+
+# Jupyter
+jupyter
+ipykernel
+
+# Utilities
+python-dotenv

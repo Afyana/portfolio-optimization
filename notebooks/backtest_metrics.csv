@@ -1,0 +1,10 @@
+Metric,Strategy (Hold),Strategy (Rebalanced),Benchmark (60/40)
+Total Return (%),17.44,17.44,20.56
+Annualized Return (%),11.47,11.47,13.47
+Volatility (%),32.62,32.62,11.17
+Sharpe Ratio,0.29,0.29,1.03
+Max Drawdown (%),-30.58,-30.58,-11.29
+Max Daily Return (%),14.54,14.54,6.39
+Min Daily Return (%),-8.42,-8.42,-3.48
+Win Rate (%),52.55,52.55,56.45
+Calmar Ratio,0.38,0.38,1.19
